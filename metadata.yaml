@@ -1,0 +1,24 @@
+_repo: The-Chester-and-Holyhead-Railway-and-Its-Prospects_62157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, William
+    gutenberg_agent_id: '51807'
+    url: http://www.gutenberg.org/2009/agents/51807
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Chester and Holyhead Railway'
+- !lcsh 'Railroads -- Wales, North'
+- !lcc 'TF'
+- GITenberg
+title: The Chester and Holyhead Railway and Its Prospects
+url: http://www.gutenberg.org/ebooks/62157
